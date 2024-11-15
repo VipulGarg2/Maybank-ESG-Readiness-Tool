@@ -1,0 +1,3 @@
+execute the "Data Migration Script 15112024.sql"
+deploy the ESG_Survey-Code-Public.zip
+deploy the ESG_Survey-Code-Admin.zip
